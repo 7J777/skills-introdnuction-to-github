@@ -1,3 +1,5 @@
+# Station de Travail Ultra-Haut de Gamme (Linux Fedora Custom)
+
 ## 🧑‍💻 Utilisateur Final
 
 - Interface fluide type macOS avec base GNOME 47 personnalisée
